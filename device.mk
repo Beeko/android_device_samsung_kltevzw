@@ -22,6 +22,10 @@ $(call inherit-product-if-exists, vendor/samsung/kltevzw/kltevzw-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+# S6 Keyboard
+PRODUCT_PACKAGES += \
+    SamsungIME
+
 # NFC
 PRODUCT_PACKAGES += \
     nfc_nci.pn54x.default

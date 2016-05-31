@@ -22,5 +22,5 @@ $(call inherit-product, device/samsung/kltevzw/device.mk)
 PRODUCT_NAME := full_kltevzw
 PRODUCT_DEVICE := kltevzw
 PRODUCT_BRAND := samsung
-PRODUCT_MANUFACTURER := samsung
-PRODUCT_MODEL := kltevzw
+PRODUCT_MANUFACTURER := Samsung
+PRODUCT_MODEL := Galaxy S5 (G900V)
