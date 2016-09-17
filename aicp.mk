@@ -9,8 +9,8 @@ $(call inherit-product, device/samsung/kltevzw/full_kltevzw.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=kltevzw \
-    BUILD_FINGERPRINT="Verizon/kltevzw/kltevzw:5.0/LRX21T/G900VVRU2BPB1:user/release-keys" \
-    PRIVATE_BUILD_DESC="kltevzw-user 5.0 LRX21T G900VVRU2BPB1 release-keys"
+    BUILD_FINGERPRINT="Verizon/kltevzw/kltevzw:6.0.1/MMB29M/G900VVRU2DPF4:user/release-keys" \
+    PRIVATE_BUILD_DESC="kltevzw-user 6.0.1 MMB29M G900VVRU2DPF4 release-keys"
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := aicp_kltevzw
