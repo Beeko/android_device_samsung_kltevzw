@@ -18,7 +18,7 @@
 TARGET_OTA_ASSERT_DEVICE := kltevzw,klte
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8974pro_sec_klte_vzw_defconfig
+TARGET_KERNEL_CONFIG := kltevzw_defconfig
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm8974
